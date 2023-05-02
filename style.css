@@ -1,0 +1,11 @@
+﻿.text {
+    font-size:1.1em;
+    font-weight:600;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+}
+.btn {
+    width: 40%;
+   background: #999999;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
